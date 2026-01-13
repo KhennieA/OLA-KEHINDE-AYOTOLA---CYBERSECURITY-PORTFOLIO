@@ -79,11 +79,23 @@ Folder: '/projects/Risk-assessment'
 # CERTIFICATIONS AND TRAINING
 - Women Techsters Fellowship (WTF)
 - ISC2 Certified in cybersecurity
+- ISO/IEC 27001:2022 Lead Auditor
+- Certified Cybersecurity Educator Professional (CCEP)
 - Google Cybersecurity Certificate (in progress)
 - Cisco Junior Cybersecurity Professional (in progress)
 - Tryhackme Practical labs
 
     ---
+
+## Additional Skills
+- Strong written and verbal communication skills
+- Excellent time management and problem-solving abilities
+- Strong organization skills and detail-oriented
+- Punctual and resilient with a strong ethical mindset
+- Ability to work independently and collaboratively in team environments
+- Passionate about cybersecurity, risk management, protecting data, systems, and critical infrastructure
+
+---
 
 ## Career Objective
 - To secure a cybersecurity internship where i can develop practical skills, support security operations and compliance efforts and grow into a well-rounded cybersecurity professional under mentorship.
