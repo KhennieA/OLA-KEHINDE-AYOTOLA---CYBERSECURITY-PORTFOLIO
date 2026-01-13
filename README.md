@@ -64,7 +64,7 @@ Folder: '/PROJECTS/VAPT-Report.pptx'
 - mapped relevant ISO 27001 controls
 - prioritized technical recommendations
   
-Folder: '/PROJECTS/Risk-Assessment.pptx'
+Folder: '/PROJECTS/Risk-Assessment-Report.pptx'
 
   ---
     
