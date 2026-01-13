@@ -80,13 +80,13 @@ Folder: '/projects/Risk-assessment'
 - Women Techsters Fellowship (WTF)
 - ISC2 Certified in cybersecurity
 - Google Cybersecurity Certificate (in progress)
-- Cisco Junior Cybersecurity Professional (IN progress)
+- Cisco Junior Cybersecurity Professional (in progress)
 - Tryhackme Practical labs
 
     ---
 
 ## Career Objective
-- T secure a cybersecurity internship where i can develop practical skills, support security operations and compliance efforts and grow into a well-rounded cybersecurity professional under mentorship.
+- To secure a cybersecurity internship where i can develop practical skills, support security operations and compliance efforts and grow into a well-rounded cybersecurity professional under mentorship.
 
 ---
 
@@ -94,7 +94,7 @@ Folder: '/projects/Risk-assessment'
 - LinkedIn: www.linkedin.com/in/ola-kehinde-7a68a4243
 - Email: Khennyola@gmail.com
 
-      ---
+ ---
       
 *This portfolio reflects my current learning stage and is continuously updated as i gain more experience.*
 
