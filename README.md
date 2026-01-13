@@ -38,7 +38,7 @@ Entry level cybersecurity professional with hands-on experience in web applicati
 - Impact assessment 
 - Mitigation recommendations
   
-Folder: '/projects/dvwa-vapt-report'
+Folder: '/PROJECTS/VAPT-Report.pptx'
 
 ---
 
@@ -51,7 +51,7 @@ Folder: '/projects/dvwa-vapt-report'
 - LAN connectivity testing
 - Practiced secure network setup and troubleshooting
   
-Folder: '/projects/packet-tracer-networks'
+Folder: '/PROJECTS/Risk-Assessment.pptx'
   
   ---
   
