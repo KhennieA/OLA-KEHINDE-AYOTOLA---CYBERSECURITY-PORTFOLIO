@@ -51,8 +51,6 @@ Folder: '/PROJECTS/VAPT-Report.pptx'
 - LAN connectivity testing
 - Practiced secure network setup and troubleshooting
   
-Folder: '/PROJECTS/Risk-Assessment.pptx'
-  
   ---
   
 ## Risk Assessment
@@ -66,7 +64,7 @@ Folder: '/PROJECTS/Risk-Assessment.pptx'
 - mapped relevant ISO 27001 controls
 - prioritized technical recommendations
   
-Folder: '/projects/Risk-assessment'
+Folder: '/PROJECTS/Risk-Assessment.pptx'
 
   ---
     
