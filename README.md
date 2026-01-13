@@ -1,4 +1,4 @@
-# OLA-KEHINDE-AYOTOLA---CYBERSECURITY-PORTFOLIO
+# OLA KEHINDE PORTFOLIO
 Entry level cybersecurity professional with hands-on experience in web application security testing, network security, linux and SQL fundamentals and governance, risk &amp; compliance. Actively building skills through structured leaning, practical labs, projects and real world simulations. Willing to learn, grow and contribute under guidance.
 
 ---
