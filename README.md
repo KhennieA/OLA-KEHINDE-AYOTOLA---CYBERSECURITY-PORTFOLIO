@@ -42,32 +42,37 @@ Folder: '/projects/dvwa-vapt-report'
  ## Risk Assessment
 - Assesed a major data breach
 - identified:
-  - key information assets
-  - threats to assets
-  - vulnerabilities in the organisation
-  - event chain
-  - Key riska to the organisation
-  - mapped relevant ISO 27001 controls
-  - prioritized technical recommendations
+- key information assets
+- threats to assets
+- vulnerabilities in the organisation
+- event chain
+- Key riska to the organisation
+- mapped relevant ISO 27001 controls
+- prioritized technical recommendations
     Folder: '/projects/Risk-assessment'
 
     ---
-
- ## Traffic Analysis and Monitoring
-    - Analyzed network traffic using filters
-    - Identified normal vs suspicious traffic patterns
+    
+  ## Traffic Analysis and Monitoring
+  - Analyzed network traffic using filters
+  - Identified normal vs suspicious traffic patterns
 
     ---
 
   # CERTIFICATIONS AND TRAINING
-    Women Techsters Fellowship (WTF)
-    ISC2 Certified in cybersecurity
-    Google Cybersecurity Certificate (in progress)
-    Cisco Junior Cybersecurity Professional (IN progress)
-    Tryhackme Practical labs
+  - Women Techsters Fellowship (WTF)
+  - ISC2 Certified in cybersecurity
+  - Google Cybersecurity Certificate (in progress)
+  - Cisco Junior Cybersecurity Professional (IN progress)
+  - Tryhackme Practical labs
 
     ---
 
-    #Career 
+    ## Career Objective
+    - T secure a cybersecurity internship where i can develop practical skills, support security operations and compliance efforts and grow into a well-rounded cybersecurity professional under mentorship.
+      ## Connect
+      - LinkedIn
+      - Email: Khennyola@gmail.com
+  *This portfolio reflects my current learning stage and is continuously updated as i gain more experience.*
 
 
