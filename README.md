@@ -1,7 +1,7 @@
 # OLA-KEHINDE-AYOTOLA---CYBERSECURITY-PORTFOLIO
 Aspiring Cybersecurity intern with hands-on experience in web application security testing, network security, linux and SQL fundamentals and governance, risk &amp; compliance. Actively building skills through structured leaning, practical labs, projects and real world simulations, willing to learn, grow and contribute under guidance.
 # CORE SKILLS
-## TECHNICAL SKILLS
+## Technical Skills
 -Network fundamentals and traffic analysis (wireshark)
 -Web application Security Testing (DVWA)
 -Vulnerability Identification and basic exploitation concepts
@@ -29,5 +29,45 @@ Aspiring Cybersecurity intern with hands-on experience in web application securi
 -Impact assessment 
 -Mitigation recommendations
 Folder: '/projects/dvwa-vapt-report'
+## Network Configuration & Security Labs (Cisco Packet Tracer)
+- configured basic network devices using CLI
+- implemented:
+- Device naming and passwords
+- SSH access
+- DHCP configuration
+- LAN connectivity testing
+- Practiced secure network setup and troubleshooting
+  Folder: '/projects/packet-tracer-networks'
+  ---
+ ## Risk Assessment
+- Assesed a major data breach
+- identified:
+  - key information assets
+  - threats to assets
+  - vulnerabilities in the organisation
+  - event chain
+  - Key riska to the organisation
+  - mapped relevant ISO 27001 controls
+  - prioritized technical recommendations
+    Folder: '/projects/Risk-assessment'
+
+    ---
+
+ ## Traffic Analysis and Monitoring
+    - Analyzed network traffic using filters
+    - Identified normal vs suspicious traffic patterns
+
+    ---
+
+  # CERTIFICATIONS AND TRAINING
+    Women Techsters Fellowship (WTF)
+    ISC2 Certified in cybersecurity
+    Google Cybersecurity Certificate (in progress)
+    Cisco Junior Cybersecurity Professional (IN progress)
+    Tryhackme Practical labs
+
+    ---
+
+    #Career 
 
 
