@@ -23,6 +23,7 @@ Entry level cybersecurity professional with hands-on experience in web applicati
 - Data protection and privacy principles 
 - Audit and Compliance basics
 - PCI DSS awareness
+- Policy Writing
 
   ---
   
@@ -60,7 +61,7 @@ Folder: '/PROJECTS/VAPT-Report.pptx'
 - threats to assets
 - vulnerabilities in the organisation
 - event chain
-- Key riska to the organisation
+- Key risks to the organisation
 - mapped relevant ISO 27001 controls
 - prioritized technical recommendations
   
@@ -73,6 +74,17 @@ Folder: '/PROJECTS/Risk-Assessment-Report.pptx'
 - Identified normal vs suspicious traffic patterns
 
     ---
+
+## Policy Writing
+- Developed a simulated Acceptable Use Policy for a hybrid financial Services Organization
+  Addressed:
+- phishing risks
+- password management
+- BYOD controls
+- remote work security
+- Data Protection requirements
+
+  ---
 
 # CERTIFICATIONS AND TRAINING
 - Women Techsters Fellowship (WTF)
