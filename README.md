@@ -77,7 +77,7 @@ Folder: '/PROJECTS/Risk-Assessment-Report.pptx'
 
 ## Policy Writing
 - Developed a simulated Acceptable Use Policy for a hybrid financial Services Organization
-  Addressed:
+- Addressed:
 - phishing risks
 - password management
 - BYOD controls
